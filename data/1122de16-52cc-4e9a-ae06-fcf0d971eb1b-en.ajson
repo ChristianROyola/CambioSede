@@ -1,0 +1,71 @@
+
+    g_aOfflineData.notebookData = {
+      "error":false,
+      "errString":null,
+      "payload":
+      {
+        "edit":true,
+        "id":"{1122de16-52cc-4e9a-ae06-fcf0d971eb1b}",
+        "repoid":"{27a871db-3011-4242-b011-7c1a005c8af9}",
+        "name":"",
+        "iconUrl":"C_TEXT_ANNOTATION.tmp",
+        "version":"@boc-eu.com/boc-is/ado.attributetype.notebook;1",
+        "classname":"Text Annotation",
+        "idclass":"C_TEXT_ANNOTATION",
+        "children":
+        [
+          
+  {
+    "name":"General information",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"LONGSTRING",
+          "complex":false,
+          "value":{"val":"@@OT@@ul@@CT@@@@OT@@li@@CT@@Baja de deuda@@OT@@/li@@CT@@@@OT@@li@@CT@@Traspaso de valores a sede de destino@@OT@@/li@@CT@@@@OT@@li@@CT@@Estado de prematrícula sede origen@@OT@@/li@@CT@@@@OT@@li@@CT@@Regularización Beca Asignado@@OT@@/li@@CT@@@@OT@@li@@CT@@Regularización de Beca Senescyt@@OT@@/li@@CT@@@@OT@@/ul@@CT@@"},
+          
+    "type":"attribute",
+    "name":"A_TEXT",
+    "classname":"Text",
+    "idclass":"A_TEXT",
+    "ctrltype":"STRING_MULTILINE",
+    "id":"{f87d5ef8-aab5-49e7-b080-46fc2010f1c0}"
+  
+
+
+    }
+    
+    ]
+  },
+  {
+    "name":"Changes",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Action required",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Attachments",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+        ]
+      }
+    };
+    

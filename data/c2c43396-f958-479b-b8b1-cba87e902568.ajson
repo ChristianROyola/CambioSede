@@ -1,0 +1,1225 @@
+
+    g_aOfflineData.notebookData = {
+      "error":false,
+      "errString":null,
+      "payload":
+      {
+        "edit":true,
+        "artefactType":AIT_ARTEFACT_DIAGRAM,
+        "type":"graphical",
+        "id":"{c6ade9eb-089a-4e16-a000-7f62f3291a41}",
+        "artefactId":"{c2c43396-f958-479b-b8b1-cba87e902568}",
+        "name":"Proceso Cambio de Sede UPS - V2",
+        "iconUrl":"MT_BUSINESS_PROCESS_DIAGRAM_BPMN_20.tmp",
+        "version":"@boc-eu.com/boc-is/ado.attributetype.notebook;1",
+        "classname":"Business Process Diagram",
+        "idclass":"MT_BUSINESS_PROCESS_DIAGRAM_BPMN_20",
+        
+        "width":"2775",
+        "height":"2113",
+        "children":
+        [
+          
+  {
+    "name":"General information",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"ADOSTRING",
+          "complex":false,
+          "value":{"val":"Proceso Cambio de Sede UPS - V2"},
+          
+    "type":"attribute",
+    "name":"NAME",
+    "classname":"Name",
+    "idclass":"NAME",
+    "ctrltype":"NAME",
+    "id":"{f9a0c671-68d2-4703-bb93-aa466860b06d}"
+  
+
+
+    }
+    
+    ]
+  },
+  {
+    "name":"Organisation",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Classification",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Process automation",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Potential analysis",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  ,
+  {
+    "name":"Cost/benefit analysis",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  ,
+  {
+    "name":"Process execution links",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Potential and maturity analysis",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"As-is assessment",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Input/Output",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Systems/Products",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Documents",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Terms, abbreviations",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Customers/Suppliers",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Continuous improvement",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Action required",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Compliance",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Risks",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Controls",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Properties",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Process attributes",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  ,
+  {
+    "name":"Process relevance",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  ,
+  {
+    "name":"Choreography attributes",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Lifecycle",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Attachments",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"System information",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+        ]
+      }
+    };
+
+    g_aOfflineData.imageMapInfo =
+    [
+      
+    
+    
+      {
+        id: "{12b55368-9903-4f65-910b-cd520c17a8c5}",
+        x: "0",
+        y: "19",
+        width: "2745",
+        height: "2064",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Proceso de cambio de sede para carreras de grado con modalidad de oferta presencial",
+        description: ""
+      },
+    
+    
+      {
+        id: "{d59f1f94-8008-4120-a7f0-08398890191f}",
+        x: "842",
+        y: "168",
+        width: "208",
+        height: "76",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Subproceso: Retiro de Asignaturas",
+        description: ""
+      },
+    
+    
+      {
+        id: "{14cd2f4d-d729-4173-9f6b-c66065fea549}",
+        x: "2570",
+        y: "864",
+        width: "85",
+        height: "226",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Anexo 6: Notificación enviada al departamento Financiero de sede destino para regularización de valores por concepto de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{6e40a79b-0d99-456a-8875-8ae1b268ad27}",
+        x: "1346",
+        y: "295",
+        width: "70",
+        height: "96",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Record académico actualizado",
+        description: ""
+      },
+    
+    
+      {
+        id: "{38c366cf-8fd3-4d3c-87ac-e3554ea13c9c}",
+        x: "1706",
+        y: "50",
+        width: "71",
+        height: "109",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Anexo 1: Solicitud de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{b0f6be20-a974-44e6-9e2f-c03293c8e713}",
+        x: "340",
+        y: "156",
+        width: "189",
+        height: "110",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Habilitar parámetros de apertura de la solicitud de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{312f1203-ce82-4bb3-bbbe-d690758cf8a8}",
+        x: "513",
+        y: "389",
+        width: "70",
+        height: "165",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "¿Estudiante registra matrícula legalizada en el periodo académico vigente?",
+        description: ""
+      },
+    
+    
+      {
+        id: "{e9940547-9a37-44be-817e-b17bd639bac1}",
+        x: "635",
+        y: "389",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Compuerta no exclusiva",
+        description: ""
+      },
+    
+    
+      {
+        id: "{f51d7ddb-c3df-4b23-ba3e-8fd785c1e4ff}",
+        x: "399",
+        y: "313",
+        width: "72",
+        height: "152",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "¿Solicitante de cambio de Sede se encuentra matriculado en sede origen?",
+        description: ""
+      },
+    
+    
+      {
+        id: "{7d831eed-1a7d-4f63-b7b1-36e431a273f0}",
+        x: "1438",
+        y: "22",
+        width: "228",
+        height: "110",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Registrar \"Solicitud de cambio de Sede para carreras presenciales de tercer nivel\"",
+        description: ""
+      },
+    
+    
+      {
+        id: "{4f7a4579-acce-44d3-8098-3050270b2fcc}",
+        x: "224",
+        y: "574",
+        width: "196",
+        height: "110",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Realizar una nueva inscripción en la Sede requerida",
+        description: ""
+      },
+    
+    
+      {
+        id: "{14231037-8430-4074-b83a-747f8c29d73c}",
+        x: "1438",
+        y: "270",
+        width: "228",
+        height: "110",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Incorporar record académico actualizado a la solicitud",
+        description: ""
+      },
+    
+    
+      {
+        id: "{1b244fff-0718-4bb3-9196-f1fc58c2ad78}",
+        x: "280",
+        y: "691",
+        width: "83",
+        height: "139",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "¿Aspirante registra pago ancipado de matrícula en Sede origen?",
+        description: ""
+      },
+    
+    
+      {
+        id: "{64b9eccd-7904-44a4-9285-d3fbbe55309f}",
+        x: "405",
+        y: "29",
+        width: "61",
+        height: "87",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Evento de inicio",
+        description: ""
+      },
+    
+    
+      {
+        id: "{7e7ab3aa-039d-46f3-b303-5be458c5cf4d}",
+        x: "1241",
+        y: "388",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Compuerta no exclusiva",
+        description: ""
+      },
+    
+    
+      {
+        id: "{12c17da3-7064-4046-84f0-11346027f5db}",
+        x: "1191",
+        y: "181",
+        width: "78",
+        height: "72",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Evento de fin",
+        description: ""
+      },
+    
+    
+      {
+        id: "{3a52a5c2-ffdf-4629-889b-810a214554f9}",
+        x: "1438",
+        y: "136",
+        width: "228",
+        height: "110",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Enviar solicitud a Director/ra de Carrera - Coordinador/ra de Tecnologías de Sede destino",
+        description: ""
+      },
+    
+    
+      {
+        id: "{e9feec22-0ea9-4430-bb0a-02aaf9c76c3f}",
+        x: "282",
+        y: "1999",
+        width: "78",
+        height: "72",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Evento de fin",
+        description: ""
+      },
+    
+    
+      {
+        id: "{7f605ee2-033f-442d-b1fc-a7fd13e067ca}",
+        x: "282",
+        y: "389",
+        width: "78",
+        height: "139",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "¿Solicitante registra Inscripción vigente en la Sede de origen?",
+        description: ""
+      },
+    
+    
+      {
+        id: "{2392feb0-3d8a-4ead-afb3-00f89d89b645}",
+        x: "718",
+        y: "313",
+        width: "78",
+        height: "113",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "¿Estudiante realizó retiro de asignaturas?",
+        description: ""
+      },
+    
+    
+      {
+        id: "{56b96176-f1c8-4fed-aca8-5ba62a99c85f}",
+        x: "814",
+        y: "57",
+        width: "266",
+        height: "76",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "",
+        description: "Devolución de valores de pago\n\nAnulación de prefactura\n\n "
+      },
+    
+    
+      {
+        id: "{c29d20a1-01b7-4815-b5d2-a5a81e97e262}",
+        x: "95",
+        y: "151",
+        width: "208",
+        height: "133",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "",
+        description: "20 días antes del inicio del periodo académico en cada sede\n30 días posterior al inicio de clases en cada sede\n"
+      },
+    
+    
+      {
+        id: "{1122de16-52cc-4e9a-ae06-fcf0d971eb1b}",
+        x: "2555",
+        y: "1173",
+        width: "189",
+        height: "228",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "",
+        description: "Baja de deuda\nTraspaso de valores a sede de destino\nEstado de prematrícula sede origen\nRegularización Beca Asignado\nRegularización de Beca Senescyt\n"
+      },
+    
+    
+      {
+        id: "{c40b1d1c-0938-43ce-bb56-a350cbd066dc}",
+        x: "294",
+        y: "1903",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Exclusive Gateway",
+        description: ""
+      },
+    
+    
+      {
+        id: "{e4524c30-5153-460f-b97b-0996699093c4}",
+        x: "221",
+        y: "976",
+        width: "202",
+        height: "92",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Subproceso: Generación de Anticipo de Matrícula por concepto de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{c8a28ac1-f8d3-4342-b877-6caa82f10c69}",
+        x: "729",
+        y: "598",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Non-exclusive Gateway",
+        description: ""
+      },
+    
+    
+      {
+        id: "{610370b6-bb3b-4469-919c-c4b242fdcabf}",
+        x: "937",
+        y: "389",
+        width: "215",
+        height: "104",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Verificar y validar que el estudiante no registre valores pendiente de pago",
+        description: "El estudiante no podrá realizar la solicitud de cambio de sede si registra valores pendientes de pago.\n"
+      },
+    
+    
+      {
+        id: "{d235752a-e870-479c-9c41-93971ad5ea9c}",
+        x: "937",
+        y: "512",
+        width: "215",
+        height: "123",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Verificar y validar solicitudes o asignaturas de tercera matrícula reprobadas por el estudiante",
+        description: "Validar si el estudiante registra o no tercera matrículas y su contabilización.\nEl proceso de III matrícula será aplicado para cualquier sede de la universidad que el estudiante desee matricularse.\nEl proceso de tercera matrícula no depende de la sede de estudios.\n"
+      },
+    
+    
+      {
+        id: "{d4b29e55-9aba-4cbc-a5ab-cb9fe3ae0b43}",
+        x: "936",
+        y: "636",
+        width: "215",
+        height: "104",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Verificar y validar sanciones que registre el estudiante",
+        description: "El estudiante no podrá realizar el cambio de sede hasta que no se arregle la sanción en la Sede Origen.\n"
+      },
+    
+    
+      {
+        id: "{f4af5e2e-2f80-456b-92c7-e80a4384d08e}",
+        x: "1184",
+        y: "598",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Non-exclusive Gateway",
+        description: ""
+      },
+    
+    
+      {
+        id: "{ad46b523-0012-44d5-a07b-2473b6f4129b}",
+        x: "937",
+        y: "758",
+        width: "215",
+        height: "123",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Verificar y validar quintil/nivel de beca por sistema de pensión diferenciado asignada según corresponda",
+        description: "\"Estimado estudiante, actualmente se presentan inconvenientes en el Nivel de beca asignado por pensión diferenciada, por favor acercarse al departamento de bienestar universitario para mayor información.\"\n"
+      },
+    
+    
+      {
+        id: "{062a4243-5f7b-40e4-b501-935af72697d5}",
+        x: "635",
+        y: "598",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Exclusive Gateway",
+        description: ""
+      },
+    
+    
+      {
+        id: "{e5d94ac9-af27-4d42-a53f-c9886cb90746}",
+        x: "1438",
+        y: "412",
+        width: "228",
+        height: "129",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Notificar al Director/ra de Carrera - Coordinador/ra de Tecnologías de Sede destino sobre solicitud de cambio de Sede para gestión",
+        description: ""
+      },
+    
+    
+      {
+        id: "{b4884199-5ee2-434a-a949-4699a4b1272a}",
+        x: "1701",
+        y: "447",
+        width: "80",
+        height: "226",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Anexo 2: Notificación al Director/ra de Carrera - Coordinador/ra de Tecnologías de sede destino para gestión de solicitud de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{a8d39aea-68f0-4779-a935-8bd93a14cd8a}",
+        x: "295",
+        y: "882",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{3297aef8-4d07-4217-877d-cb0bb56a4767}",
+        x: "295",
+        y: "1109",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{6f3f439a-0478-49f8-b2ef-f174d84a5938}",
+        x: "729",
+        y: "180",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{168d6f18-fbc2-4213-8afb-0cfaab280f94}",
+        x: "1089",
+        y: "179",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{4aa9876a-c01e-4f69-81de-00b0dcecd3da}",
+        x: "2378",
+        y: "995",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{3897b1e9-f93e-41b7-8824-bd9970761799}",
+        x: "2378",
+        y: "1222",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{1e631d36-fea1-49bc-850c-f2cda75354a3}",
+        x: "1438",
+        y: "923",
+        width: "234",
+        height: "138",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Ejecutar cambio de Sede mediante la aplicación de software de la Dirección de Carrera - Coordinación de Tecnologías",
+        description: "Considerar para registros institucionales - Sede de estudios\n \n"
+      },
+    
+    
+      {
+        id: "{688005cc-12e7-4231-991c-2f145abb49e9}",
+        x: "1442",
+        y: "1230",
+        width: "220",
+        height: "97",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Notificar al estudiante estado de solicitud aprobado ",
+        description: ""
+      },
+    
+    
+      {
+        id: "{b0b941e8-00ab-4acd-ba44-ad7e7625bfb0}",
+        x: "1740",
+        y: "1318",
+        width: "79",
+        height: "161",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Anexo 3: Notificación al estudiante sobre actualización en el estado de la solicitud",
+        description: ""
+      },
+    
+    
+      {
+        id: "{8f507e0b-b8e6-4e36-ad11-b063efb50ec7}",
+        x: "2214",
+        y: "1698",
+        width: "78",
+        height: "72",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Evento de fin",
+        description: ""
+      },
+    
+    
+      {
+        id: "{8f9baeef-d97f-4eed-a2d7-50bac1a391d1}",
+        x: "2148",
+        y: "1476",
+        width: "208",
+        height: "76",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Subproceso: Matrícula",
+        description: ""
+      },
+    
+    
+      {
+        id: "{8345145a-9b0d-4816-a57c-3bc49dcb60be}",
+        x: "1512",
+        y: "729",
+        width: "80",
+        height: "152",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "¿Director/ra de Carrera o Coordinador/ra de Tecnologías aprueba solicitud?",
+        description: ""
+      },
+    
+    
+      {
+        id: "{01ce16a1-46c3-4bc3-a740-84be6afe44e9}",
+        x: "1442",
+        y: "1381",
+        width: "220",
+        height: "97",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Notificar al estudiante estado de solicitud negado",
+        description: ""
+      },
+    
+    
+      {
+        id: "{c7cee3bf-3c23-449c-85c4-8e8c6f094385}",
+        x: "1514",
+        y: "1528",
+        width: "78",
+        height: "72",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Evento de fin",
+        description: ""
+      },
+    
+    
+      {
+        id: "{d52509f3-beed-4626-9fbb-af2e0350e46b}",
+        x: "350",
+        y: "1672",
+        width: "208",
+        height: "121",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Definir estado de inscripción preexistente como no vigente",
+        description: ""
+      },
+    
+    
+      {
+        id: "{51cd7c60-873d-403c-bb67-0069e1d7e9cc}",
+        x: "2370",
+        y: "162",
+        width: "70",
+        height: "100",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "¿Estudiante es becario Senescyt?",
+        description: ""
+      },
+    
+    
+      {
+        id: "{9e62a4f7-4679-4bd3-8d56-652a6d51c7d2}",
+        x: "2290",
+        y: "303",
+        width: "227",
+        height: "97",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Notificar a Vicerrector de Sede destino para gestión de traspaso de Beca Senescyt",
+        description: ""
+      },
+    
+    
+      {
+        id: "{3cd0ddfc-2802-41ee-be19-b83ab2d37b53}",
+        x: "2291",
+        y: "530",
+        width: "227",
+        height: "76",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Subproceso: Regularización de beca Senescyt por concepto de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{4a1dbe70-158c-4c93-a952-e41eed955dfb}",
+        x: "2377",
+        y: "427",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{08231b0c-29ba-45a6-9c27-d8d126cf20a7}",
+        x: "2377",
+        y: "654",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{a0ffc24e-611f-46fa-b894-e1575ce86f00}",
+        x: "2283",
+        y: "1097",
+        width: "244",
+        height: "78",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Subproceso: Regularización de valores por concepto de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{c76c0293-370a-48dd-b24e-e3e1ef3f85e5}",
+        x: "2378",
+        y: "749",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Exclusive Gateway",
+        description: ""
+      },
+    
+    
+      {
+        id: "{300702c8-b90d-49c4-bb1b-861925eee670}",
+        x: "2284",
+        y: "832",
+        width: "239",
+        height: "135",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Notificar a departamento Financiero de Sede destino para regularización de valores por concepto de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{934d6a72-8281-4de3-af92-3be746299c77}",
+        x: "1438",
+        y: "1084",
+        width: "227",
+        height: "110",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Actualizar Sede de estudios en las aplicaciones de software y reportes institucionales requeridos",
+        description: ""
+      },
+    
+    
+      {
+        id: "{a42c6add-cf40-44cd-a6d9-4c97d738d5a6}",
+        x: "2225",
+        y: "86",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Compuerta no exclusiva",
+        description: ""
+      },
+    
+    
+      {
+        id: "{8ce4a7f0-c839-4451-904b-155e56a95f2e}",
+        x: "2055",
+        y: "484",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{cff98e34-416f-4df3-8947-0e83f3dc05cc}",
+        x: "2055",
+        y: "711",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{cdd01041-9178-4dc8-a4bd-a6c8d84eb0e1}",
+        x: "1969",
+        y: "587",
+        width: "227",
+        height: "76",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Subproceso: Validación requisitos de documentación",
+        description: ""
+      },
+    
+    
+      {
+        id: "{e2fcdb01-81c1-4bcb-bec7-2e14e1611dff}",
+        x: "1972",
+        y: "284",
+        width: "220",
+        height: "154",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Notificar a Auxiliar de secretaría de Sede destino ejecución para revisión de requisitos de documentación por concepto de cambio de Sede ",
+        description: ""
+      },
+    
+    
+      {
+        id: "{c637eb83-6b7e-45d4-93c7-784e18185eb7}",
+        x: "2225",
+        y: "1278",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Compuerta no exclusiva",
+        description: ""
+      },
+    
+    
+      {
+        id: "{974cbd52-ab88-4f5e-bed8-d3dd53cdf4a6}",
+        x: "1971",
+        y: "151",
+        width: "223",
+        height: "97",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Migrar requisitos de documentación a nueva Sede de estudios",
+        description: ""
+      },
+    
+    
+      {
+        id: "{4ad31c59-0005-49de-8f91-b5d87e3174b0}",
+        x: "1515",
+        y: "578",
+        width: "77",
+        height: "113",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Tiempo de espera para gestión de solicitud",
+        description: ""
+      },
+    
+    
+      {
+        id: "{edc1fe35-68d4-4700-a2ae-184d31a2c3a2}",
+        x: "1846",
+        y: "316",
+        width: "92",
+        height: "226",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Anexo 4: Notificación a auxiliar de secretaría de sede destino para revisión de requisitos de documentación por concepto de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{c64140f4-5357-4653-aa9b-a8eba7a95a75}",
+        x: "2572",
+        y: "315",
+        width: "80",
+        height: "265",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Anexo 5: Notificación enviada a la/al Vicerrector/ra de la Sede destino para gestión de traspaso de beca Senescyt por concepto de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{8c8110de-5d57-4873-ae5b-e7b1b2cf7b3c}",
+        x: "1706",
+        y: "163",
+        width: "71",
+        height: "109",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Anexo 1: Solicitud de cambio de Sede",
+        description: ""
+      },
+    
+    
+      {
+        id: "{1eef6046-b48a-4df8-9d33-bcde411b6879}",
+        x: "218",
+        y: "1382",
+        width: "208",
+        height: "76",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Subproceso: Matrícula",
+        description: ""
+      },
+    
+    
+      {
+        id: "{fa754336-6acb-479c-a473-113c7be12d30}",
+        x: "75",
+        y: "1433",
+        width: "79",
+        height: "187",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Anexo 7: Notificación de actualización de estado de inscripción preexistente como no vigente",
+        description: ""
+      },
+    
+    
+      {
+        id: "{34f39486-1d12-479e-9232-3a5b047eb45d}",
+        x: "1740",
+        y: "1508",
+        width: "79",
+        height: "161",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Anexo 3: Notificación al estudiante sobre actualización en el estado de la solicitud",
+        description: ""
+      },
+    
+    
+      {
+        id: "{88c9baa8-48dd-4c26-9dda-80860c3e3657}",
+        x: "2226",
+        y: "1374",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{6c638d7e-6769-4d58-8801-a26faf793086}",
+        x: "2226",
+        y: "1601",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{d1849cb3-46a4-4231-b6f2-59cf1e0fd549}",
+        x: "295",
+        y: "1298",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{d1278efc-ea37-4209-adde-b9844cd32b83}",
+        x: "294",
+        y: "1506",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Intermediate Event (sequence flow)",
+        description: ""
+      },
+    
+    
+      {
+        id: "{387544d2-ed21-4c81-a414-8590feae856f}",
+        x: "295",
+        y: "1204",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Exclusive Gateway",
+        description: ""
+      },
+    
+    
+      {
+        id: "{f2b13168-7be8-429c-834a-d7927d9ed3c4}",
+        x: "294",
+        y: "1600",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Non-exclusive Gateway",
+        description: ""
+      },
+    
+    
+      {
+        id: "{e821cbdb-f39b-4096-bd9e-b64a7ff3afb4}",
+        x: "85",
+        y: "1672",
+        width: "208",
+        height: "121",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Notificar estado de inscripción preexistente como no vigente",
+        description: ""
+      },
+    
+    
+      {
+        id: "{d51b4daa-2df3-45d5-9de0-60b00aff0f1b}",
+        x: "295",
+        y: "1810",
+        width: "54",
+        height: "54",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        name: "Non-exclusive Gateway",
+        description: ""
+      }
+    ]
+  

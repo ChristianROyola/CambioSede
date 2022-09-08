@@ -1,0 +1,21 @@
+
+    g_aOfflineData.objectGroups["{055adc43-5391-45aa-a8de-5d910640cbb5}"] =
+    [
+      
+        {
+          "text":"Oyola Christian (coyola@​ups.edu.ec)",
+          id:"{02048d1b-292b-49af-a84f-d25ad9fc0510}",
+          artefactId:"{02048d1b-292b-49af-a84f-d25ad9fc0510}",
+          _is_leaf:false,
+          
+              _empty:false,
+            
+          editable:true,
+          artefactType:AIT_ARTEFACT_OBJECT_GROUP,
+          pool:false,
+          indent: 2,
+          _parent: "{055adc43-5391-45aa-a8de-5d910640cbb5}"
+        }
+        
+    ];
+    

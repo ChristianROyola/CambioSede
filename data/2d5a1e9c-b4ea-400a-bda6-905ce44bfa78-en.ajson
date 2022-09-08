@@ -1,0 +1,217 @@
+
+    g_aOfflineData.notebookData = {
+      "error":false,
+      "errString":null,
+      "payload":
+      {
+        "edit":true,
+        "id":"{2d5a1e9c-b4ea-400a-bda6-905ce44bfa78}",
+        "repoid":"{2d5a1e9c-b4ea-400a-bda6-905ce44bfa78}",
+        "name":"Aspirante",
+        "iconUrl":"C_ROLE.tmp",
+        "version":"@boc-eu.com/boc-is/ado.attributetype.notebook;1",
+        "classname":"Role",
+        "idclass":"C_ROLE",
+        "children":
+        [
+          
+  {
+    "name":"General information",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"ADOSTRING",
+          "complex":false,
+          "value":{"val":"Aspirante"},
+          
+    "type":"attribute",
+    "name":"NAME",
+    "classname":"Name",
+    "idclass":"NAME",
+    "ctrltype":"NAME",
+    "id":"{f9a0c671-68d2-4703-bb93-aa466860b06d}"
+  
+
+
+    }
+    ,
+    {
+      
+          "attrtype":"BOOL",
+          "complex":false,
+          
+              "value":{"val":1},
+            
+    "type":"attribute",
+    "name":"A_AVAILABLE_FOR_READER_ASSIGNMENT",
+    "classname":"Available for reader assignment",
+    "idclass":"A_AVAILABLE_FOR_READER_ASSIGNMENT",
+    "ctrltype":"BOOL",
+    "id":"{90c353f5-c9f7-4219-bff0-99fc2d0edec7}"
+  
+
+
+    }
+    
+    ]
+  },
+  {
+    "name":"Organisation",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "type":"relation",
+    "relClassInd":"RC_IS_APPLICATION_OWNER",
+    
+
+    "label":"Responsible person",
+    "targets":
+    [
+    
+      {
+        text:"Oyola Christian (coyola@​ups.edu.ec)",
+        artefactId:"{edb0aa2e-8e88-4071-9f94-cede1eaa779b}",
+        id:"{edb0aa2e-8e88-4071-9f94-cede1eaa779b}",
+        relInstId:"{2477bdcd-3b19-4fb7-ba47-6c102a11da83}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:true,
+        incoming:false
+      }
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Competencies",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Tasks (RACI)",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "type":"relation",
+    "relClassInd":"RESPONSIBLE_FOR_EXECUTION",
+    
+
+    "label":"Responsible for",
+    "targets":
+    [
+    
+      {
+        text:"Realizar una nueva inscripción en la Sede requerida",
+        artefactId:"{4f7a4579-acce-44d3-8098-3050270b2fcc}",
+        id:"{4f7a4579-acce-44d3-8098-3050270b2fcc}",
+        relInstId: "{d4565c3e-cb25-4f62-9bbb-1ddf096b3576}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      }
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Responsibilities",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Model responsibilities",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Continuous improvement",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Action required",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Compliance",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Changes",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"System information",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Lifecycle",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Attachments",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Simulation data",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+        ]
+      }
+    };
+    

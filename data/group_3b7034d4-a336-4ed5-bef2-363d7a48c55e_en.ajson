@@ -1,0 +1,19 @@
+
+    g_aOfflineData.modelGroups["{3b7034d4-a336-4ed5-bef2-363d7a48c55e}"] =
+    [
+      
+    {
+      "text":"Proceso Cambio de Sede UPS - V2",
+      id:"{c2c43396-f958-479b-b8b1-cba87e902568}",
+      artefactId:"{c2c43396-f958-479b-b8b1-cba87e902568}",
+      _is_leaf:true,
+      idClass: "MT_BUSINESS_PROCESS_DIAGRAM_BPMN_20",
+      "iconUrl":"MT_BUSINESS_PROCESS_DIAGRAM_BPMN_20.tmp",
+      _parent: "{3b7034d4-a336-4ed5-bef2-363d7a48c55e}",
+      artefactType:AIT_ARTEFACT_DIAGRAM,
+      indent:1,
+      editable:true
+    }
+  
+    ];
+    

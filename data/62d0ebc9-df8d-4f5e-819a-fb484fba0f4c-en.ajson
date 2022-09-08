@@ -1,0 +1,217 @@
+
+    g_aOfflineData.notebookData = {
+      "error":false,
+      "errString":null,
+      "payload":
+      {
+        "edit":true,
+        "id":"{62d0ebc9-df8d-4f5e-819a-fb484fba0f4c}",
+        "repoid":"{62d0ebc9-df8d-4f5e-819a-fb484fba0f4c}",
+        "name":"Director/ra de Carrera - Coordinador/ra de Tecnologías",
+        "iconUrl":"C_ROLE.tmp",
+        "version":"@boc-eu.com/boc-is/ado.attributetype.notebook;1",
+        "classname":"Role",
+        "idclass":"C_ROLE",
+        "children":
+        [
+          
+  {
+    "name":"General information",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"ADOSTRING",
+          "complex":false,
+          "value":{"val":"Director/ra de Carrera - Coordinador/ra de Tecnologías"},
+          
+    "type":"attribute",
+    "name":"NAME",
+    "classname":"Name",
+    "idclass":"NAME",
+    "ctrltype":"NAME",
+    "id":"{f9a0c671-68d2-4703-bb93-aa466860b06d}"
+  
+
+
+    }
+    ,
+    {
+      
+          "attrtype":"BOOL",
+          "complex":false,
+          
+              "value":{"val":1},
+            
+    "type":"attribute",
+    "name":"A_AVAILABLE_FOR_READER_ASSIGNMENT",
+    "classname":"Available for reader assignment",
+    "idclass":"A_AVAILABLE_FOR_READER_ASSIGNMENT",
+    "ctrltype":"BOOL",
+    "id":"{90c353f5-c9f7-4219-bff0-99fc2d0edec7}"
+  
+
+
+    }
+    
+    ]
+  },
+  {
+    "name":"Organisation",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "type":"relation",
+    "relClassInd":"RC_IS_APPLICATION_OWNER",
+    
+
+    "label":"Responsible person",
+    "targets":
+    [
+    
+      {
+        text:"Oyola Christian (coyola@​ups.edu.ec)",
+        artefactId:"{edb0aa2e-8e88-4071-9f94-cede1eaa779b}",
+        id:"{edb0aa2e-8e88-4071-9f94-cede1eaa779b}",
+        relInstId:"{280b1c03-cb65-4584-8e6e-b9d2589f7fb7}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:true,
+        incoming:false
+      }
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Competencies",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Tasks (RACI)",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "type":"relation",
+    "relClassInd":"RESPONSIBLE_FOR_EXECUTION",
+    
+
+    "label":"Responsible for",
+    "targets":
+    [
+    
+      {
+        text:"Ejecutar cambio de Sede mediante la aplicación de software de la Dirección de Carrera - Coordinación de Tecnologías",
+        artefactId:"{1e631d36-fea1-49bc-850c-f2cda75354a3}",
+        id:"{1e631d36-fea1-49bc-850c-f2cda75354a3}",
+        relInstId: "{56747603-ff62-4194-b633-4b578d61a22a}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      }
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Responsibilities",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Model responsibilities",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Continuous improvement",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Action required",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Compliance",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Changes",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"System information",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Lifecycle",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Attachments",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Simulation data",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+        ]
+      }
+    };
+    

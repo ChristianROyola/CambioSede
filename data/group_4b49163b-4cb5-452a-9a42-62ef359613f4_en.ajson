@@ -1,0 +1,21 @@
+
+    g_aOfflineData.objectGroups["{4b49163b-4cb5-452a-9a42-62ef359613f4}"] =
+    [
+      
+        {
+          "text":"Personal Objects",
+          id:"{055adc43-5391-45aa-a8de-5d910640cbb5}",
+          artefactId:"{055adc43-5391-45aa-a8de-5d910640cbb5}",
+          _is_leaf:false,
+          
+              _empty:false,
+            
+          editable:true,
+          artefactType:AIT_ARTEFACT_OBJECT_GROUP,
+          pool:false,
+          indent: 1,
+          _parent: "{4b49163b-4cb5-452a-9a42-62ef359613f4}"
+        }
+        
+    ];
+    

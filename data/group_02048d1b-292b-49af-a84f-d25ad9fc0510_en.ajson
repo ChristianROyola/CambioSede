@@ -1,0 +1,36 @@
+
+    g_aOfflineData.objectGroups["{02048d1b-292b-49af-a84f-d25ad9fc0510}"] =
+    [
+      
+        {
+          "text":"Application",
+          id:"{40260104-1681-410b-bd52-ba0772228512}",
+          artefactId:"{40260104-1681-410b-bd52-ba0772228512}",
+          _is_leaf:false,
+          
+              _empty:false,
+            
+          editable:true,
+          artefactType:AIT_ARTEFACT_OBJECT_GROUP,
+          pool:false,
+          indent: 3,
+          _parent: "{02048d1b-292b-49af-a84f-d25ad9fc0510}"
+        }
+        ,
+        {
+          "text":"Role",
+          id:"{5ac8f5cf-0cf6-468b-ba89-7494f9be358c}",
+          artefactId:"{5ac8f5cf-0cf6-468b-ba89-7494f9be358c}",
+          _is_leaf:false,
+          
+              _empty:false,
+            
+          editable:true,
+          artefactType:AIT_ARTEFACT_OBJECT_GROUP,
+          pool:false,
+          indent: 3,
+          _parent: "{02048d1b-292b-49af-a84f-d25ad9fc0510}"
+        }
+        
+    ];
+    

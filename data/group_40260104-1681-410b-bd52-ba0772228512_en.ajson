@@ -1,0 +1,42 @@
+
+    g_aOfflineData.objectGroups["{40260104-1681-410b-bd52-ba0772228512}"] =
+    [
+      
+      {
+        "text":"Aplicación para registro de solicitudes en línea",
+        id:"{6ffba13a-8f65-444c-8313-c5136a7838e9}",
+        _is_leaf:true,
+        idClass: "C_APPLICATION",
+        "iconUrl":"C_APPLICATION.tmp",
+        _parent: "{40260104-1681-410b-bd52-ba0772228512}",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        indent: 4,
+        editable:true
+      }
+    ,
+      {
+        "text":"Aplicación de software para Cambio de Sede",
+        id:"{a944f4b8-bda7-4feb-9d58-6490da1aaae9}",
+        _is_leaf:true,
+        idClass: "C_APPLICATION",
+        "iconUrl":"C_APPLICATION.tmp",
+        _parent: "{40260104-1681-410b-bd52-ba0772228512}",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        indent: 4,
+        editable:true
+      }
+    ,
+      {
+        "text":"Aplicación de software de inscripciones",
+        id:"{af0f9708-8ce5-4f4b-ac62-75bf5ead59e6}",
+        _is_leaf:true,
+        idClass: "C_APPLICATION",
+        "iconUrl":"C_APPLICATION.tmp",
+        _parent: "{40260104-1681-410b-bd52-ba0772228512}",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        indent: 4,
+        editable:true
+      }
+    
+    ];
+    

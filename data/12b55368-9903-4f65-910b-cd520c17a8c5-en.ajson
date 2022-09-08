@@ -1,0 +1,273 @@
+
+    g_aOfflineData.notebookData = {
+      "error":false,
+      "errString":null,
+      "payload":
+      {
+        "edit":true,
+        "id":"{12b55368-9903-4f65-910b-cd520c17a8c5}",
+        "repoid":"{12f4c440-fb09-48a1-bf06-eb2b3b0e630f}",
+        "name":"Proceso de cambio de sede para carreras de grado con modalidad de oferta presencial",
+        "iconUrl":"C_POOL.tmp",
+        "version":"@boc-eu.com/boc-is/ado.attributetype.notebook;1",
+        "classname":"Pool",
+        "idclass":"C_POOL",
+        "children":
+        [
+          
+  {
+    "name":"General information",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"ADOSTRING",
+          "complex":false,
+          "value":{"val":"Proceso de cambio de sede para carreras de grado con modalidad de oferta presencial"},
+          
+    "type":"attribute",
+    "name":"NAME",
+    "classname":"Name",
+    "idclass":"NAME",
+    "ctrltype":"NAME",
+    "id":"{16656faa-147a-4a46-917b-108016d56c0d}"
+  
+
+
+    }
+    ,
+  {
+    "name":"Black-box Pool",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"BOOL",
+          "complex":false,
+          
+              "value":{"val":"0"},
+            
+    "type":"attribute",
+    "name":"A_ROTATE_BLACKPOOL_TEXT",
+    "classname":"Rotate text by 90 degrees",
+    "idclass":"A_ROTATE_BLACKPOOL_TEXT",
+    "ctrltype":"BOOL",
+    "id":"{310c0f7f-de7e-4fb5-9d2f-0a3ee33d2f06}"
+  
+
+
+    }
+    
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Process properties",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Process attributes",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  ,
+  {
+    "name":"Object relevance",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Partner properties",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"References",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  ,
+  {
+    "name":"Multiplicity",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Changes",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Action required",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Attachments",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Representation",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"INTEGER",
+          "complex":false,
+          
+              "value":{"val":16777215},
+            
+    "type":"attribute",
+    "name":"COLOUR",
+    "classname":"Colour",
+    "idclass":"COLOUR",
+    "ctrltype":"COLOR",
+    "id":"{41fb60b4-a0a6-4160-a5b1-b742d274fc6b}"
+  
+
+
+    }
+    ,
+    {
+      
+          "attrtype":"ENUM",
+          "complex":false,
+          "value":{"val":"v0", "ind":"v0@v1@v2@v3@v4@v5", "constraint":"100%@80%@60%@40%@20%@0%"},
+          
+    "type":"attribute",
+    "name":"A_TRANSPARENCY",
+    "classname":"Transparency",
+    "idclass":"A_TRANSPARENCY",
+    "ctrltype":"ENUM",
+    "id":"{7179f3ab-21d5-468a-b365-84b74c889517}"
+  
+
+
+    }
+    ,
+  {
+    "name":"Watermark",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"BOOL",
+          "complex":false,
+          
+              "value":{"val":"0"},
+            
+    "type":"attribute",
+    "name":"A_DISPLAY_WATERMARK",
+    "classname":"Display watermarks",
+    "idclass":"A_DISPLAY_WATERMARK",
+    "ctrltype":"BOOL",
+    "id":"{6c867af2-e07a-409b-adbe-ae6d0b804d6c}"
+  
+
+
+    }
+    ,
+    {
+      
+          "attrtype":"ENUM",
+          "complex":false,
+          "value":{"val":"v1", "ind":"v2@v1@v0", "constraint":"Top/Right@Middle@Bottom/Left"},
+          
+    "type":"attribute",
+    "name":"A_WATERMARK_ALIGNMENT_VERTICAL",
+    "classname":"Alignment",
+    "idclass":"A_WATERMARK_ALIGNMENT_VERTICAL",
+    "ctrltype":"ENUM",
+    "id":"{a600856d-9f82-49dd-8626-5c0269e52175}"
+  
+
+
+    }
+    ,
+    {
+      
+          "attrtype":"INTEGER",
+          "complex":false,
+          
+              "value":{"val":14540253},
+            
+    "type":"attribute",
+    "name":"A_WATERMARK_COLOR",
+    "classname":"Colour",
+    "idclass":"A_WATERMARK_COLOR",
+    "ctrltype":"COLOR",
+    "id":"{1cf507de-0a62-47de-8a8e-d834dc857ee0}"
+  
+
+
+    }
+    ,
+    {
+      
+          "attrtype":"INTEGER",
+          "complex":false,
+          
+              "value":{"val":200},
+            
+    "type":"attribute",
+    "name":"A_WATERMARK_FONT_SIZE",
+    "classname":"Font size",
+    "idclass":"A_WATERMARK_FONT_SIZE",
+    "ctrltype":"INTEGER",
+    "id":"{8bb90373-8f80-4ab6-88d6-980391f9bbbc}"
+  
+
+
+    }
+    
+    ]
+  }
+  
+    ]
+  }
+        ]
+      }
+    };
+    

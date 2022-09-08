@@ -1,0 +1,123 @@
+
+    g_aOfflineData.notebookData = {
+      "error":false,
+      "errString":null,
+      "payload":
+      {
+        "edit":true,
+        "id":"{8c8110de-5d57-4873-ae5b-e7b1b2cf7b3c}",
+        "repoid":"{e73b6639-75a1-4b34-9f94-18d709cebbc9}",
+        "name":"Anexo 1: Solicitud de cambio de Sede",
+        "iconUrl":"C_DATA_OBJECT.tmp",
+        "version":"@boc-eu.com/boc-is/ado.attributetype.notebook;1",
+        "classname":"Data Object",
+        "idclass":"C_DATA_OBJECT",
+        "children":
+        [
+          
+  {
+    "name":"General information",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"ADOSTRING",
+          "complex":false,
+          "value":{"val":"Anexo 1: Solicitud de cambio de Sede"},
+          
+    "type":"attribute",
+    "name":"NAME",
+    "classname":"Name",
+    "idclass":"NAME",
+    "ctrltype":"NAME",
+    "id":"{16656faa-147a-4a46-917b-108016d56c0d}"
+  
+
+
+    }
+    ,
+  {
+    "name":"Data relevance",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Object properties",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Details",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Data input (details)",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  ,
+  {
+    "name":"Data output (details)",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  ,
+  {
+    "name":"Data storage (details)",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Changes",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Action required",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Attachments",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+        ]
+      }
+    };
+    

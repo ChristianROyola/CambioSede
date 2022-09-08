@@ -1,0 +1,54 @@
+
+    g_aOfflineData.objectGroups["{5ac8f5cf-0cf6-468b-ba89-7494f9be358c}"] =
+    [
+      
+      {
+        "text":"Aspirante",
+        id:"{2d5a1e9c-b4ea-400a-bda6-905ce44bfa78}",
+        _is_leaf:true,
+        idClass: "C_ROLE",
+        "iconUrl":"C_ROLE.tmp",
+        _parent: "{5ac8f5cf-0cf6-468b-ba89-7494f9be358c}",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        indent: 4,
+        editable:true
+      }
+    ,
+      {
+        "text":"Dirección Técnica de Admisiones",
+        id:"{2fdac2a6-2e9c-4877-b47f-ab4c808377c7}",
+        _is_leaf:true,
+        idClass: "C_ROLE",
+        "iconUrl":"C_ROLE.tmp",
+        _parent: "{5ac8f5cf-0cf6-468b-ba89-7494f9be358c}",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        indent: 4,
+        editable:true
+      }
+    ,
+      {
+        "text":"Director/ra de Carrera - Coordinador/ra de Tecnologías",
+        id:"{62d0ebc9-df8d-4f5e-819a-fb484fba0f4c}",
+        _is_leaf:true,
+        idClass: "C_ROLE",
+        "iconUrl":"C_ROLE.tmp",
+        _parent: "{5ac8f5cf-0cf6-468b-ba89-7494f9be358c}",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        indent: 4,
+        editable:true
+      }
+    ,
+      {
+        "text":"Aplicación de Software",
+        id:"{aad0642f-ea58-455c-9f47-99ad0fb28654}",
+        _is_leaf:true,
+        idClass: "C_ROLE",
+        "iconUrl":"C_ROLE.tmp",
+        _parent: "{5ac8f5cf-0cf6-468b-ba89-7494f9be358c}",
+        artefactType:AIT_ARTEFACT_OBJECT,
+        indent: 4,
+        editable:true
+      }
+    
+    ];
+    

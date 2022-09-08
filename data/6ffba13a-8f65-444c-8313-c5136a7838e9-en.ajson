@@ -1,0 +1,255 @@
+
+    g_aOfflineData.notebookData = {
+      "error":false,
+      "errString":null,
+      "payload":
+      {
+        "edit":true,
+        "id":"{6ffba13a-8f65-444c-8313-c5136a7838e9}",
+        "repoid":"{6ffba13a-8f65-444c-8313-c5136a7838e9}",
+        "name":"Aplicación para registro de solicitudes en línea",
+        "iconUrl":"C_APPLICATION.tmp",
+        "version":"@boc-eu.com/boc-is/ado.attributetype.notebook;1",
+        "classname":"Application",
+        "idclass":"C_APPLICATION",
+        "children":
+        [
+          
+  {
+    "name":"General information",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"ADOSTRING",
+          "complex":false,
+          "value":{"val":"Aplicación para registro de solicitudes en línea"},
+          
+    "type":"attribute",
+    "name":"NAME",
+    "classname":"Name",
+    "idclass":"NAME",
+    "ctrltype":"NAME",
+    "id":"{f9a0c671-68d2-4703-bb93-aa466860b06d}"
+  
+
+
+    }
+    ,
+  {
+    "name":"Deprecated",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Organisation",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "type":"relation",
+    "relClassInd":"RC_IS_APPLICATION_OWNER",
+    
+
+    "label":"Responsible person",
+    "targets":
+    [
+    
+      {
+        text:"Oyola Christian (coyola@​ups.edu.ec)",
+        artefactId:"{edb0aa2e-8e88-4071-9f94-cede1eaa779b}",
+        id:"{edb0aa2e-8e88-4071-9f94-cede1eaa779b}",
+        relInstId:"{023da3c4-fca4-47fc-80f5-75ba9ce82d73}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:true,
+        incoming:false
+      }
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"IT elements",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Relations (outgoing)",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  ,
+  {
+    "name":"Relations (incoming)",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Products/Processes",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Input/Output",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Continuous improvement",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Action required",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Compliance",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Risks",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Controls",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Changes",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"System information",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Lifecycle",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Attachments",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Representation",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Visualisation of attributes",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  ,
+    {
+      
+          "attrtype":"BOOL",
+          "complex":false,
+          
+              "value":{"val":"0"},
+            
+    "type":"attribute",
+    "name":"DISPLAY_SYMBOLS_IF_RISKS_OR_CONTROLS",
+    "classname":"Show symbol when risks exist",
+    "idclass":"DISPLAY_SYMBOLS_IF_RISKS_OR_CONTROLS",
+    "ctrltype":"BOOL",
+    "id":"{0c4d83d5-56f7-4eed-b897-6368f9067750}"
+  
+
+
+    }
+    ,
+    {
+      
+          "attrtype":"BOOL",
+          "complex":false,
+          
+              "value":{"val":1},
+            
+    "type":"attribute",
+    "name":"A_GRC_DISPLAY_SYMBOLS_IF_IMPLEMENTED_CONTROLS",
+    "classname":"Show symbol when implementing controls exist",
+    "idclass":"A_GRC_DISPLAY_SYMBOLS_IF_IMPLEMENTED_CONTROLS",
+    "ctrltype":"BOOL",
+    "id":"{0c3ce853-5264-48f7-9eba-acc0aba17528}"
+  
+
+
+    }
+    
+    ]
+  }
+        ]
+      }
+    };
+    

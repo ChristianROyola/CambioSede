@@ -1,0 +1,228 @@
+
+    g_aOfflineData.notebookData = {
+      "error":false,
+      "errString":null,
+      "payload":
+      {
+        "edit":true,
+        "id":"{2fdac2a6-2e9c-4877-b47f-ab4c808377c7}",
+        "repoid":"{2fdac2a6-2e9c-4877-b47f-ab4c808377c7}",
+        "name":"Dirección Técnica de Admisiones",
+        "iconUrl":"C_ROLE.tmp",
+        "version":"@boc-eu.com/boc-is/ado.attributetype.notebook;1",
+        "classname":"Role",
+        "idclass":"C_ROLE",
+        "children":
+        [
+          
+  {
+    "name":"General information",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"ADOSTRING",
+          "complex":false,
+          "value":{"val":"Dirección Técnica de Admisiones"},
+          
+    "type":"attribute",
+    "name":"NAME",
+    "classname":"Name",
+    "idclass":"NAME",
+    "ctrltype":"NAME",
+    "id":"{f9a0c671-68d2-4703-bb93-aa466860b06d}"
+  
+
+
+    }
+    ,
+    {
+      
+          "attrtype":"BOOL",
+          "complex":false,
+          
+              "value":{"val":1},
+            
+    "type":"attribute",
+    "name":"A_AVAILABLE_FOR_READER_ASSIGNMENT",
+    "classname":"Available for reader assignment",
+    "idclass":"A_AVAILABLE_FOR_READER_ASSIGNMENT",
+    "ctrltype":"BOOL",
+    "id":"{90c353f5-c9f7-4219-bff0-99fc2d0edec7}"
+  
+
+
+    }
+    
+    ]
+  },
+  {
+    "name":"Organisation",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "type":"relation",
+    "relClassInd":"RC_IS_APPLICATION_OWNER",
+    
+
+    "label":"Responsible person",
+    "targets":
+    [
+    
+      {
+        text:"Oyola Christian (coyola@​ups.edu.ec)",
+        artefactId:"{edb0aa2e-8e88-4071-9f94-cede1eaa779b}",
+        id:"{edb0aa2e-8e88-4071-9f94-cede1eaa779b}",
+        relInstId:"{b4b99507-9660-437a-ad9b-b3d0c0e0f051}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:true,
+        incoming:false
+      }
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Competencies",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Tasks (RACI)",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "type":"relation",
+    "relClassInd":"RESPONSIBLE_FOR_EXECUTION",
+    
+
+    "label":"Responsible for",
+    "targets":
+    [
+    
+      {
+        text:"Definir estado de inscripción preexistente como no vigente",
+        artefactId:"{d52509f3-beed-4626-9fbb-af2e0350e46b}",
+        id:"{d52509f3-beed-4626-9fbb-af2e0350e46b}",
+        relInstId: "{e755e377-6cce-4c86-8d2e-e6495e1895cc}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Notificar estado de inscripción preexistente como no vigente",
+        artefactId:"{e821cbdb-f39b-4096-bd9e-b64a7ff3afb4}",
+        id:"{e821cbdb-f39b-4096-bd9e-b64a7ff3afb4}",
+        relInstId: "{71349ee6-b492-437b-8af3-7d43c0393914}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      }
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Responsibilities",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Model responsibilities",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Continuous improvement",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Action required",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Compliance",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Changes",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"System information",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Lifecycle",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Attachments",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Simulation data",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+        ]
+      }
+    };
+    

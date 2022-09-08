@@ -1,0 +1,349 @@
+
+    g_aOfflineData.notebookData = {
+      "error":false,
+      "errString":null,
+      "payload":
+      {
+        "edit":true,
+        "id":"{aad0642f-ea58-455c-9f47-99ad0fb28654}",
+        "repoid":"{aad0642f-ea58-455c-9f47-99ad0fb28654}",
+        "name":"Aplicación de Software",
+        "iconUrl":"C_ROLE.tmp",
+        "version":"@boc-eu.com/boc-is/ado.attributetype.notebook;1",
+        "classname":"Role",
+        "idclass":"C_ROLE",
+        "children":
+        [
+          
+  {
+    "name":"General information",
+    "type":"group",
+    "children":
+    [
+      
+    {
+      
+          "attrtype":"ADOSTRING",
+          "complex":false,
+          "value":{"val":"Aplicación de Software"},
+          
+    "type":"attribute",
+    "name":"NAME",
+    "classname":"Name",
+    "idclass":"NAME",
+    "ctrltype":"NAME",
+    "id":"{f9a0c671-68d2-4703-bb93-aa466860b06d}"
+  
+
+
+    }
+    ,
+    {
+      
+          "attrtype":"BOOL",
+          "complex":false,
+          
+              "value":{"val":1},
+            
+    "type":"attribute",
+    "name":"A_AVAILABLE_FOR_READER_ASSIGNMENT",
+    "classname":"Available for reader assignment",
+    "idclass":"A_AVAILABLE_FOR_READER_ASSIGNMENT",
+    "ctrltype":"BOOL",
+    "id":"{90c353f5-c9f7-4219-bff0-99fc2d0edec7}"
+  
+
+
+    }
+    
+    ]
+  },
+  {
+    "name":"Organisation",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "type":"relation",
+    "relClassInd":"RC_IS_APPLICATION_OWNER",
+    
+
+    "label":"Responsible person",
+    "targets":
+    [
+    
+      {
+        text:"Oyola Christian (coyola@​ups.edu.ec)",
+        artefactId:"{edb0aa2e-8e88-4071-9f94-cede1eaa779b}",
+        id:"{edb0aa2e-8e88-4071-9f94-cede1eaa779b}",
+        relInstId:"{110499c0-1827-406b-82a9-9aca533f10fa}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:true,
+        incoming:false
+      }
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Competencies",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Tasks (RACI)",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "type":"relation",
+    "relClassInd":"RESPONSIBLE_FOR_EXECUTION",
+    
+
+    "label":"Responsible for",
+    "targets":
+    [
+    
+      {
+        text:"Actualizar Sede de estudios en las aplicaciones de software y reportes institucionales requeridos",
+        artefactId:"{934d6a72-8281-4de3-af92-3be746299c77}",
+        id:"{934d6a72-8281-4de3-af92-3be746299c77}",
+        relInstId: "{9e9d012f-e5d4-499c-aaf2-2c08bd904a89}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Definir estado de inscripción preexistente como no vigente",
+        artefactId:"{d52509f3-beed-4626-9fbb-af2e0350e46b}",
+        id:"{d52509f3-beed-4626-9fbb-af2e0350e46b}",
+        relInstId: "{7f778589-ed4b-4c1d-bc90-2e8b9b87ecff}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Notificar a Auxiliar de secretaría de Sede destino ejecución para revisión de requisitos de documentación por concepto de cambio de Sede ",
+        artefactId:"{e2fcdb01-81c1-4bcb-bec7-2e14e1611dff}",
+        id:"{e2fcdb01-81c1-4bcb-bec7-2e14e1611dff}",
+        relInstId: "{4bfe05ff-1d8b-4b25-a6c1-c086b5aba1c7}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Notificar a Vicerrector de Sede destino para gestión de traspaso de Beca Senescyt",
+        artefactId:"{9e62a4f7-4679-4bd3-8d56-652a6d51c7d2}",
+        id:"{9e62a4f7-4679-4bd3-8d56-652a6d51c7d2}",
+        relInstId: "{940fcaf5-eee8-495a-8f07-b75c0924e94a}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Notificar a departamento Financiero de Sede destino para regularización de valores por concepto de cambio de Sede",
+        artefactId:"{300702c8-b90d-49c4-bb1b-861925eee670}",
+        id:"{300702c8-b90d-49c4-bb1b-861925eee670}",
+        relInstId: "{83adcf00-2144-4888-b026-8688c1957e0c}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Notificar al Director/ra de Carrera - Coordinador/ra de Tecnologías de Sede destino sobre solicitud de cambio de Sede para gestión",
+        artefactId:"{e5d94ac9-af27-4d42-a53f-c9886cb90746}",
+        id:"{e5d94ac9-af27-4d42-a53f-c9886cb90746}",
+        relInstId: "{01dbcbe4-051e-4027-a135-15a49cf661e6}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Notificar al estudiante estado de solicitud aprobado ",
+        artefactId:"{688005cc-12e7-4231-991c-2f145abb49e9}",
+        id:"{688005cc-12e7-4231-991c-2f145abb49e9}",
+        relInstId: "{0109b41f-8b50-496a-91a9-ad7c3ff8ffd7}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Notificar al estudiante estado de solicitud negado",
+        artefactId:"{01ce16a1-46c3-4bc3-a740-84be6afe44e9}",
+        id:"{01ce16a1-46c3-4bc3-a740-84be6afe44e9}",
+        relInstId: "{f6b2026c-1021-426f-84d7-72697c658e22}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Notificar estado de inscripción preexistente como no vigente",
+        artefactId:"{e821cbdb-f39b-4096-bd9e-b64a7ff3afb4}",
+        id:"{e821cbdb-f39b-4096-bd9e-b64a7ff3afb4}",
+        relInstId: "{75aebeb5-8d56-4a37-a700-e65b9214c8ee}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Verificar y validar que el estudiante no registre valores pendiente de pago",
+        artefactId:"{610370b6-bb3b-4469-919c-c4b242fdcabf}",
+        id:"{610370b6-bb3b-4469-919c-c4b242fdcabf}",
+        relInstId: "{eba9daae-b893-4bc3-bfcc-4afc50a731a0}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Verificar y validar quintil/nivel de beca por sistema de pensión diferenciado asignada según corresponda",
+        artefactId:"{ad46b523-0012-44d5-a07b-2473b6f4129b}",
+        id:"{ad46b523-0012-44d5-a07b-2473b6f4129b}",
+        relInstId: "{015771b4-6746-43b4-acaf-7fbadba2031f}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Verificar y validar sanciones que registre el estudiante",
+        artefactId:"{d4b29e55-9aba-4cbc-a5ab-cb9fe3ae0b43}",
+        id:"{d4b29e55-9aba-4cbc-a5ab-cb9fe3ae0b43}",
+        relInstId: "{7c906b00-d16f-4fde-97b1-ff806f791d4e}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      },
+      {
+        text:"Verificar y validar solicitudes o asignaturas de tercera matrícula reprobadas por el estudiante",
+        artefactId:"{d235752a-e870-479c-9c41-93971ad5ea9c}",
+        id:"{d235752a-e870-479c-9c41-93971ad5ea9c}",
+        relInstId: "{fde9be2b-8151-4ef8-8171-5cced6cd1487}",
+        leaf: true,
+        artefactType:AIT_ARTEFACT_OBJECT,
+        broken:false,
+        trgmissing:false,
+        incoming:true
+      }
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Responsibilities",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Model responsibilities",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Continuous improvement",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"Action required",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Compliance",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Changes",
+    "type":"group",
+    "children":
+    [
+      
+  {
+    "name":"System information",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+  
+    ]
+  },
+  {
+    "name":"Lifecycle",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Attachments",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  },
+  {
+    "name":"Simulation data",
+    "type":"group",
+    "children":
+    [
+      
+    ]
+  }
+        ]
+      }
+    };
+    
